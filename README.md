@@ -2,7 +2,7 @@
 
 ###
 
-- JDK 21
+- JDK 21 (prefered)
 - Maven 3.9
 - MySQL 8
 
